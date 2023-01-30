@@ -1,0 +1,47 @@
+#fundo{
+    max-width: 100%;
+}
+
+#logo{
+    position: relative;
+    left: 170px;
+    margin-bottom: 30px;
+}
+.container-header{
+    width: 450px;
+    margin: 0 auto;margin: 0 auto;
+    position: relative;
+    bottom: 200px;
+}
+
+.container-header h1,p{
+    margin-bottom: 10px;
+}
+
+.container-header h1{
+    font-size: 2em;
+}
+
+.container-header p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.botao1{
+    display: inline-block;
+    margin-left: 80px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.botao{
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 40px;
+    font-weight: bold;
+    margin: 10px;
+}
+

@@ -1,0 +1,15 @@
+@import "conteudo.css";
+@import "Css/cores.css";
+@import "Css/header.css";
+@import "Css/main.css";
+@import "Css/conteudo.css";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1440px;
+}

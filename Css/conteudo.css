@@ -1,0 +1,119 @@
+.pc-img{
+    max-width: 100%;
+    margin-right: 40px;
+    position: relative;
+    right: 50px;
+}
+
+.container-pc{
+    display: flex;
+    align-items: center;
+}
+
+
+.container-anuncio h1,p{
+    margin-top: 10px;
+}
+
+.container-anuncio h1{
+    font-size: 2em;
+}
+
+.container-anuncio p{
+    font-size: 18px;
+}
+
+/*SECTION CELULAR*/
+
+.container-celular{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.container-celular h1{
+    font-size: 2em;
+}
+
+.container-celular p{
+    font-size: 18px;
+}
+
+.container-img1{
+    text-align: center;
+    margin-top: 50px;
+    max-width: 100%;
+    box-shadow: 60px -16px transparent;
+}
+
+/*SECTION CHARGE*/
+
+.container-charge{
+    text-align: center;
+}
+
+.container-charge h1{
+    font-size: 2em;
+}
+
+.container-charge p{
+    font-size: 18px;
+}
+
+/*SECTION GRID*/
+
+.container-flex{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.container-flex h1{
+    font-size: 2em;
+}
+
+.container-flex p{
+    font-size: 18px;
+}
+.icones-anuncio{
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+
+/*SECTION MARCAS*/
+
+.container-marcas{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    max-width: 100%;
+    padding: 20px;
+}
+
+/*SECTION IOS*/
+.container-ios{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container-ios p{
+    font-size: 18px;
+}
+
+.container-ios h1{
+    font-size: 2em;
+}
+
+.container-ios .botao3{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
